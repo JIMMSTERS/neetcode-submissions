@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -85,5 +86,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
