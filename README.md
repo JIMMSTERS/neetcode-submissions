@@ -79,11 +79,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0001-two-sum](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,8 +95,21 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
