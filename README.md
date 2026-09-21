@@ -88,6 +88,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,8 +121,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
