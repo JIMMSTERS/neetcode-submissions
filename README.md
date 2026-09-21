@@ -83,12 +83,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0088-merge-sorted-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +135,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
