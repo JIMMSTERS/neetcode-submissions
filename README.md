@@ -94,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0383-ransom-note](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,4 +153,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
