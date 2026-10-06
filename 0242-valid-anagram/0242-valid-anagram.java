@@ -3,16 +3,13 @@ class Solution {
         if (s.length() != t.length()) {
             return false;
         }
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] count = new int[26];
         for (char c: s.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) + 1);
+            count[c - 'a']++;
         }
         for (char c: t.toCharArray()) {
-            if (!map.containsKey(c)) {
-                return false;
-            }
-            map.put(c, map.get(c) - 1);
-            if (map.get(c) < 0) {
+            count[c - 'a']--;
+            if (count[c - 'a'] < 0) {
                 return false;
             }
         }
