@@ -136,6 +136,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0125-valid-palindrome](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -161,5 +162,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0125-valid-palindrome](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
