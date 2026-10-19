@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0242-valid-anagram](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0242-valid-anagram](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -185,4 +188,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
