@@ -103,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0242-valid-anagram](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0383-ransom-note/) | Easy |
+| [0392-is-subsequence](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
