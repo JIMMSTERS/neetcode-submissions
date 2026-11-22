@@ -143,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0344-reverse-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0383-ransom-note](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
