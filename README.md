@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0189-rotate-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0724-find-pivot-index](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
