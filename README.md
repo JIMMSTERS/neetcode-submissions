@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0001-two-sum](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -213,4 +214,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
