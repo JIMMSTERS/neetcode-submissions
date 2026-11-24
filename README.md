@@ -85,6 +85,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0724-find-pivot-index](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 ## Hash Table
@@ -97,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -111,6 +113,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,11 +126,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0088-merge-sorted-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
@@ -196,4 +201,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
