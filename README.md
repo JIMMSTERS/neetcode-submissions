@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -176,6 +177,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
@@ -228,4 +230,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
