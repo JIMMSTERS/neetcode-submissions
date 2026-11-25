@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0048-rotate-image](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
@@ -157,6 +158,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0202-happy-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -219,6 +221,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/JIMMSTERS/neetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Simulation
